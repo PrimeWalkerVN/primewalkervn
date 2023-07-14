@@ -1,7 +1,8 @@
 ## Hi there! I am PrimeWalker
 
-- 🌱 I’m currently learning backend development and willing dive to deep golang language
-- 👯 I’m looking to collaborate on video streaming or e-commerce system
+- 🌱 I’m currently full-stack engineer (Front-Backend)
+- Main programing Language: JS/TS and Golang
+- Dive to deep learning the system design and UX/UI
 - ⚡ Fun fact: Gaming, Basketball, Films
 
 ### Github States
@@ -47,6 +48,8 @@
 - Fullstack Engineering
 - System Design
 - Cryptocurrency
+- Creative thinking
+- UX/UI
 - Golang / Javascript
 - Web development
 
