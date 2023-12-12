@@ -4,6 +4,7 @@
 - Main programming Language: JS/TS and Golang
 - Dive to deep learning the system design and UX/UI
 - ⚡ Fun fact: Gaming, Basketball, Films
+- My website: <a href="https://linkstack.primewalkervn.dev/">GO HERE</a
 
 ### Github States
 
@@ -36,7 +37,7 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
-   <a href="https://github.com/PrimeWalkerVN"><img alt="PrimeWalker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=primewalkervn&custom_title=PrimeWalker's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/PrimeWalkerVN"><img alt="PrimeWalker's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=primewalkervn&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true" /></a>
 <br/>
 
 ## Git profile Trophies
