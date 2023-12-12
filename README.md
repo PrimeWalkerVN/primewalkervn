@@ -1,7 +1,7 @@
 ## Hi there! I am PrimeWalker
 
-- 🌱 I’m currently full-stack engineer (Front-Backend)
-- Main programing Language: JS/TS and Golang
+- 🌱 I’m currently a Software engineer, especially in the Web development industry
+- Main programming Language: JS/TS and Golang
 - Dive to deep learning the system design and UX/UI
 - ⚡ Fun fact: Gaming, Basketball, Films
 
