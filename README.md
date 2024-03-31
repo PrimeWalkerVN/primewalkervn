@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Gaming, Basketball, Films
 - My website: <a href="https://linkstack.primewalkervn.dev/"> GO HERE </a>
 
-### Github States
+### Github Public States
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=primewalkervn&count_private=true&show_icons=true&theme=cobalt" alt="github states"> 
