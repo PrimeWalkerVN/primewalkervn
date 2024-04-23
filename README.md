@@ -3,7 +3,7 @@
 - 🌱 I’m currently a Software engineer, especially in the Web development industry
 - Main programming Language: JS/TS and Golang
 - Dive to deep learning the system design and UX/UI
-- ⚡ Fun fact: Gaming, Basketball, Films
+- ⚡ Fun fact: Video Games, Films and Movies, Hangouts, swimming, billar, basketball, etc...
 - My website: <a href="https://linkstack.primewalkervn.dev/"> GO HERE </a>
 
 ### Github Public States
