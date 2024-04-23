@@ -16,7 +16,7 @@
 ## 🛠️ My Skills
 
 - Core Language: JavaScript, TypeScript, Golang, Shell script, Yaml
-- Web Development: React.js, Redux, Node.js, NestJS, Next.js, Express.js, Styled Component, Koa, Lerna, REST, gRPC, Protobuf, Proxy
+- Web Development: React.js, Redux, Node.js, NestJS, Next.js, Express.js, Styled Component, Koa, Lerna, REST, gRPC, Protobuf, Proxy, Knex
 - UI/UX: Figma, Storybook, Ant Design, Material UI, Semantic UI, Tailwind
 - Architecture and Pattern: Functional Programming, OOP Programming, SOLID, Dependency Injection, Microservices, Clean Architecture, Domain-Driven Design, Event-Driven Architecture, Resource-Oriented Architecture, CQRS, Event Sourcing
 - Database Management: MongoDB, MySQL, PostgreSQL, S3 & Minio, Firebase
