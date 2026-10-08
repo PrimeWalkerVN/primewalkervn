@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/primewalkervn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=628EDB&center=true&vCenter=true&width=640&lines=Hi+there!+I'm+Thanh+Nguyen+(PrimeWalker)+%F0%9F%91%8B;Senior+Full-stack+Software+Engineer;Web+%C2%B7+Mobile+%C2%B7+Backend+%C2%B7+DevOps;Distributed+Systems+%26+System+Design" alt="Thanh Nguyen (PrimeWalker): Senior Full-stack Software Engineer, Web, Mobile, Backend, DevOps, Distributed Systems" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=628EDB&center=true&vCenter=true&width=760&lines=Hi+there!+I%27m+Thanh+Nguyen+(PrimeWalker)+%F0%9F%91%8B;Senior+Full-stack+Software+Engineer;Web+%C2%B7+Mobile+%C2%B7+Backend+%C2%B7+DevOps;Distributed+Systems+%26+System+Design" alt="Thanh Nguyen (PrimeWalker): Senior Full-stack Software Engineer, Web, Mobile, Backend, DevOps, Distributed Systems" />
   </a>
 </p>
 
